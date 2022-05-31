@@ -33,11 +33,11 @@ global.footer = '𝐉 𝐔 𝐍' //ubah jadi nama mu, note tanda ' gausah di hap
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://www.youtube.com/channel/UCjJrwVftfya5cg9uY2Fw-Rg'
+global.ig = 'https://instagram.com/junaediiindraa'
+global.mygc = 'https://chat.whatsapp.com/CRY2lVKmXB7sCMhHmcwVw'
+global.myweb = 'https://instagram.com/junaediiindraa'
+global.email = 'junaediindras@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
