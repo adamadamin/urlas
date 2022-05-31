@@ -418,7 +418,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}setallmenu
   
   *THANKS TO*
-  *≻* DikaArdnt
+  *≻* JACK
   *≻* ZeeoneOfc
   *≻* FatihArridho
   *≻* Yoga
@@ -953,7 +953,7 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
-  *≻* DikaArdnt
+  *≻* Jack
   *≻* ZeeoneOfc
   *≻* FatihArridho
   *≻* Yoga
